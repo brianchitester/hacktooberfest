@@ -1,3 +1,3 @@
 # hacktooberfest
 
-Use this repo to rack up your hacktoberfest points.
+Use this repo to rack up your [hacktoberfest](https://hacktoberfest.digitalocean.com/) points.
