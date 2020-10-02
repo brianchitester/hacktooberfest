@@ -1,4 +1,4 @@
 # hacktooberfest
 
-Use this repo to rack up your Hacktoberfest points. And to be awesome.
+Use this repo to rack up your Hacktoberfest points. And to be awesome project.
 
