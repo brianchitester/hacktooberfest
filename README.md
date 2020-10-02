@@ -1,8 +1,6 @@
 # Hacktooberfest
 
-Use this repo to rack up your [hacktoberfest](https://hacktoberfest.digitalocean.com/) points. And to be awesome.
-=======
-Use this repo to rack up your Hacktoberfest points. And to be awesome.
+Use this repo to rack up your [Hacktoberfest](https://hacktoberfest.digitalocean.com/) points. And to be awesome.
 
 # What is Hacktooberfest ?
 
